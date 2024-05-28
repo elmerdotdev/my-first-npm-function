@@ -1,10 +1,10 @@
 {
   "name": "@jrbalbin/my-first-function",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "My first npm package",
   "repository": {
     "type": "git",
-    "url": "https://github.com/elmerdotdev/my-first-npm-function.git"
+    "url": "git+https://github.com/elmerdotdev/my-first-npm-function.git"
   },
   "keywords": [
     "jrbalbin"
